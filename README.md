@@ -8,7 +8,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Banco de Dados
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ Foco
+## ⚡ Focus
 - Microservices  
 - APIs REST  
 - CI/CD  
