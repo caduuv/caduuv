@@ -21,7 +21,7 @@
 ---
 
 ## ⚡ Foco
-- Microsserviços  
+- Microservices  
 - APIs REST  
 - CI/CD  
 - Clean Architecture  
