@@ -68,14 +68,6 @@ I focus on designing clean, maintainable architectures and solving complex perfo
 
 ---
 
-## 📊 GitHub Stats
-
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=caduuv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caduuv&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Career Goals
 
 - Become a Senior Backend Engineer / Software Architect  
